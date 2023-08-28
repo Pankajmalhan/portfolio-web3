@@ -6,7 +6,7 @@ import Education from "@layouts/components/admin/Education";
 import Experience from "@layouts/components/admin/Experience";
 import Profile from "@layouts/components/admin/Profile";
 import DescSkills from "@layouts/components/admin/Skill";
-import ProjectDashBoard from "@layouts/components/admin/projects";
+import ProjectDashBoard from "@layouts/components/admin/Projects";
 import portfolioService from "@lib/services/portfolio";
 import { useAddress, useChain, useConnectionStatus, useContract, useContractRead, useNetwork, useNetworkMismatch } from "@thirdweb-dev/react";
 import { portfolio } from "const/contracts";
