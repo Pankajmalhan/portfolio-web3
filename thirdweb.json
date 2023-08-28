@@ -1,0 +1,63 @@
+{
+  "chainIds": [
+    1337
+  ],
+  "contracts": [
+    {
+      "address": "0x73511669fd4dE447feD18BB79bAFeAC93aB7F31f",
+      "chainId": 1337
+    },
+    {
+      "address": "0x37dD26d18abeC2d311e82177f9fa58E9DC14b579",
+      "chainId": 1337
+    },
+    {
+      "address": "0x72ed6e892932c90cDF3c2FDC436d06db4aF23EEC",
+      "chainId": 1337
+    },
+    {
+      "address": "0xb2AA9bf762878462382A34eB4EC1f041E0071081",
+      "chainId": 1337
+    },
+    {
+      "address": "0x62DB6c1678Ca81ea0d946EA3dd75b4F71421A2aE",
+      "chainId": 1337
+    },
+    {
+      "address": "0x322619fcCcc741880ee7071cBE4e877Fb919eCf8",
+      "chainId": 1337
+    },
+    {
+      "address": "0xAE17B5B870fA5DD28Eb444D30B7862BfAd84882B",
+      "chainId": 1337
+    },
+    {
+      "address": "0xC2469d565A2DC77f4a496Ff5e3B25ED69Ea8AB6b",
+      "chainId": 1337
+    },
+    {
+      "address": "0xEDBA386C67364084c5eCbb4C50422eEDCfB19374",
+      "chainId": 1337
+    },
+    {
+      "address": "0x33FdEd0aBab7c2980a613cCcAbA62bFB9f47F1aE",
+      "chainId": 1337
+    },
+    {
+      "address": "0x9809d9D94b0B3380db38b1e1a06047a2964e0041",
+      "chainId": 1337
+    },
+    {
+      "address": "0x09E38B218b3C2e8F4AAB7c9e9a610BC6972f630D",
+      "chainId": 1337
+    },
+    {
+      "address": "0xBe355e183Cf1b44A44c467fD76E079C996f9540C",
+      "chainId": 1337
+    },
+    {
+      "address": "0x8433995539D552594526721eF892a52b826afdb5",
+      "chainId": 1337
+    }
+  ]
+}
